@@ -3,14 +3,12 @@
 ! Title: ABP for leosam
 ! Last modified: 2019年6月21日21:09:58
 ! Fork of: EasyList https://easylist.adblockplus.org/
-!
+
+
 2345.com
 
 52pojie.cn##.plc.plm
 52pojie.cn##.dnch_eo_pt
-
-xiaodao.la##.emoji-list
-xiaodao.la##.emoji-tip
 
 ithome.com###side_func
 ithome.com###tt50
@@ -39,15 +37,4 @@ mpyit.com##.custom-html-widget
 ||zz.bdstatic.com/linksubmit/push.js
 ||rjsos.com
 
-qiushibaike.com##.sidebar-inform
-qiushibaike.com###sidebar-qrcode
-qiushibaike.com##.sidebar-hot.clearfix
-qiushibaike.com##.sidebar-other
-qiushibaike.com##.recommend.clearfix
-qiushibaike.com##.foot
-
-墙洞.com##cloudflare-app[style="z-index: 41;"]
-repaik.com###topwarning_7ree
-
 /assets/js/fuck.js
-
