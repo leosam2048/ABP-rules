@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906211914
+! Version: 20200819
 ! Title: ABP for leosam
-! Last modified: 2019年6月21日21:09:58
+! Last modified: 2020年8月19日16:57:34
 ! Fork of: EasyList https://easylist.adblockplus.org/
 
 
@@ -9,6 +9,7 @@
 
 52pojie.cn##.plc.plm
 52pojie.cn##.dnch_eo_pt
+52pojie.cn##.dnch_eo_pb
 
 ithome.com###side_func
 ithome.com###tt50
