@@ -39,3 +39,6 @@ mpyit.com##.custom-html-widget
 ||rjsos.com
 
 /assets/js/fuck.js
+
+||doubleclick.net^
+||trvdp.com^
