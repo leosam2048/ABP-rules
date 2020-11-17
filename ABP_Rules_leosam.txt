@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20200819
+! Version: 20201117
 ! Title: ABP for leosam
-! Last modified: 2020年8月19日16:57:34
+! Last modified: 2020年11月17日16:57:34
 ! Fork of: EasyList https://easylist.adblockplus.org/
 
 2345.com
