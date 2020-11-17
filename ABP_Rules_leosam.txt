@@ -4,7 +4,6 @@
 ! Last modified: 2020年8月19日16:57:34
 ! Fork of: EasyList https://easylist.adblockplus.org/
 
-
 2345.com
 
 52pojie.cn##.plc.plm
@@ -39,3 +38,6 @@ mpyit.com##.custom-html-widget
 ||rjsos.com
 
 /assets/js/fuck.js
+
+||dayanzai.me/image/ad/*$domain=www.inoreader.com
+||cdn.v2ex.com/assets/*$domain=www.inoreader.com
